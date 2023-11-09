@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plastic-to-Brick Converter - Turning Waste into Building Blocks</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#how-it-works">How It Works</a></li>
+                <li><a href="#benefits">Benefits</a></li>
+                <li><a href="#get-involved">Get Involved</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h1>Transforming Plastic Waste into Sustainable Building Solutions</h1>
+        <img src="plastic-to-brick-image.jpg" alt="Plastic-to-Brick Converter in Action">
+    </section>
+
+    <section id="about">
+        <h2>About</h2>
+        <p>Describe the plastic-to-brick converter, its history, and the technology behind it.</p>
+        <p>Explain the mission of the company or organization behind the device.</p>
+        <p>Introduce the key team members and their expertise.</p>
+    </section>
+
+    <section id="how-it-works">
+        <h2>How It Works</h2>
+        <p>Use visuals and simple explanations to describe how the device works.</p>
+        <p>Detail the types of plastics that can be converted into bricks.</p>
+        <p>Discuss the environmental benefits of plastic recycling, including reduced waste and greenhouse gas emissions.</p>
+    </section>
+
+    <section id="benefits">
+        <h2>Benefits</h2>
+        <p>Explain how using plastic bricks can contribute to sustainable and eco-friendly construction practices.</p>
+        <p>Discuss how this method can be more cost-effective compared to traditional building materials.</p>
+        <p>Highlight the positive impact on reducing plastic pollution in oceans and landfills.</p>
+    </section>
+
+    <section id="get-involved">
+        <h2>Get Involved</h2>
+        <p>Provide options for people to support your project, such as donations or partnerships.</p>
+        <p>Encourage visitors to participate in educational programs or events related to plastic recycling.</p>
+        <p>Share the latest news, research, and success stories related to plastic-to-brick technology.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Contact Information:</p>
+        <p>Email: example@email.com</p>
+        <p>Phone: (123) 456-7890</p>
+        <p>Address: 123 Main Street, City, State</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Plastic-to-Brick Converter. All rights reserved.</p>
+    </footer>
+</body>
+</html>
